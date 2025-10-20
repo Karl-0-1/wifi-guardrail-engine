@@ -1,0 +1,12 @@
+# Compiled executables
+planner
+planner.exe
+a.out
+
+# Object files
+*.o
+*.obj
+
+# Editor/OS-specific
+.vscode/
+.DS_Store
