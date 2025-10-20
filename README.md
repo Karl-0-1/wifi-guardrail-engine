@@ -23,3 +23,15 @@ You will need a C++ compiler that supports C++20.
 ```bash
 # Using g++
 g++ -std=c++20 -o planner planner.cpp
+```
+### 2. Run (Execute Tests)
+
+The main() function in planner.cpp is a built-in unit test suite. To run the tests, simply execute the compiled program:
+
+```bash
+# On macOS/Linux
+./planner
+
+# On Windows
+planner.exe
+```
